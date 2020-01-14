@@ -1,4 +1,5 @@
 def division(x, y):
+''' задание 1'''
     if y == 0:
         print("деление на ноль")
     else:
